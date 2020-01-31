@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅༔ ལས་ཚོགས་སྤྱི་ཆིངས་ནོར་བུའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ༔
+  authors:
+  - མཛད་པ་པོ། མྱང་ཉི་མ་འོད་ཟེར།
+  sku: SHE-RTD-013
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: The Jewel Garland:A General Presentation of Tantra Practices
+    bo: ལས་ཚོགས་སྤྱི་ཆིངས་ནོར་བུའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ༔
+  collection:
+    en: Treasury of Precious Termas–  Book 13
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༡༣
+  author:
+    en: Nyangral Nyima Oser
+    bo: ཉང་རལ་ཉི་མ་འོད་ཟེར།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-013
+  category:
+    en: Dharma Teaching
+    bo: ཆོས་བསླབ་བྱ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-013.epub
+  description:
+    en: ''
+    bo: ''
