@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000032
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༔ ལས་ཚོགས་སྤྱི་ཆིངས་ནོར་བུའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ༔
   authors:
   - མཛད་པ་པོ། མྱང་ཉི་མ་འོད་ཟེར།
-  sku: SHE-RTD-013
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: SHE-RTD-013
 web_metadata:
   title:
     en: The Jewel Garland:A General Presentation of Tantra Practices
